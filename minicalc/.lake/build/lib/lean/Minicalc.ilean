@@ -1,0 +1,1 @@
+{"decls":{},"directImports":[["Minicalc.Expr",false,false,false],["Minicalc.Parser",false,false,false],["Minicalc.Evaluator",false,false,false],["Minicalc.Optimizer",false,false,false],["Minicalc.CLI",false,false,false]],"module":"Minicalc","references":{},"version":5}

@@ -1,0 +1,36 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["452181cc35918477.olean"],
+  "m": false,
+  "i": "5e3b1020211e03bb.ilean",
+  "c": "3cc18f69a066938f.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/home/alen/projects/lean/minicalc/.lake/build/lib/lean /home/alen/.elan/toolchains/leanprover--lean4---v4.34.0/bin/lean /home/alen/projects/lean/minicalc/Minicalc/Evaluator.lean -o /home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Evaluator.olean -i /home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Evaluator.ilean -c /home/alen/projects/lean/minicalc/.lake/build/ir/Minicalc/Evaluator.c --setup /home/alen/projects/lean/minicalc/.lake/build/ir/Minicalc/Evaluator.setup.json --json",
+   "level": "trace"},
+  {"message":
+   "Minicalc/Evaluator.lean:57:46: `if_pos` has been deprecated: Use `ite_eq_left` instead",
+   "level": "warning"}],
+ "inputs":
+ [["deps",
+   [["minicalc/Minicalc:extraDep",
+     [["@minicalc:extraDep", "00000000000006bb"]]],
+    ["imports",
+     [["Minicalc.Expr transitive imports (legacy)", "00000000000006bb"],
+      ["Minicalc.Expr:importAllArts", "2de4a726eb5f114d"]]]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.34.0, commit 293d5d0c0c3f3dded4688b3ccd6a33939ac5102b",
+   "a1c6c7aa3e9abfe7"],
+  ["/home/alen/projects/lean/minicalc/Minicalc/Evaluator.lean",
+   "4a643205f9fdb511"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: Minicalc.Evaluator", "6f211f1b135ea75c"],
+  ["Package.id?: (some minicalc)", "afa8974223845d87"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "08e38e4a24193be5"}

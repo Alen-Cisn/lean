@@ -1,0 +1,9 @@
+{"plugins": [],
+ "package": "minicalc",
+ "options": {},
+ "name": "Minicalc.Parser",
+ "isModule": false,
+ "importArts":
+ {"Minicalc.Expr":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Expr.olean"]]},
+ "dynlibs": []}

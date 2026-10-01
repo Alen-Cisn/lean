@@ -1,0 +1,19 @@
+{"plugins": [],
+ "package": "minicalc",
+ "options": {},
+ "name": "Main",
+ "isModule": false,
+ "importArts":
+ {"Minicalc.Parser":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Parser.olean"]],
+  "Minicalc.Optimizer":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Optimizer.olean"]],
+  "Minicalc.Expr":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Expr.olean"]],
+  "Minicalc.Evaluator":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/Evaluator.olean"]],
+  "Minicalc.CLI":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc/CLI.olean"]],
+  "Minicalc":
+  [["/home/alen/projects/lean/minicalc/.lake/build/lib/lean/Minicalc.olean"]]},
+ "dynlibs": []}
